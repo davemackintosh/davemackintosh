@@ -2,9 +2,8 @@
 
 I like to collaborate in teams that are effective in change for the positive and help humans enjoy every day and I love building things.
 
-- 🔭 I’m currently working on @Multicolour 1.0 and with @bighealth
 - 🌱 I’m currently learning how to spec work out at top level better. 
-- 💬 Ask me about game development, music and electronics.
+- 💬 Ask me about game/web development, music and electronics.
 - 📫 How to reach me: HMU on Twitter at @daveymackintosh
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm atually Dave Mackintosh the 3rd. My dad is Dave Mackintosh and so was his dad!
