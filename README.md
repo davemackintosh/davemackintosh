@@ -13,7 +13,7 @@ I am a freelancer based in the south of the UK and you can find me at the follow
 <p align="center">
     <a target="_blank" title="Dave Mackintosh - React Developer" href="https://dav3.co">🕸 Website</a>
     <a target="_blank" title="Dave Mackintosh Twitter" href="https://twitter.com/daveymackintosh">🐦 Twitter</a>
-    <a target="_blank" title="Dave Mackintosh Facebook" href="https://www.facebook.com/dave.mackintosh.986h">🙃 Facebook</a>
+    <a target="_blank" title="Dave Mackintosh Facebook" href="https://www.facebook.com/dave.mackintosh.986">🙃 Facebook</a>
     <a target="_blank" title="Dave Mackintosh LinkedIn" href="https://www.linkedin.com/in/dav3">💼 Twitter</a>
     <a target="_blank" title="Dave Mackintosh Email" href="mailto: me+github@davemackintosh.co.uk">📥 Email</a>  
   </p>
