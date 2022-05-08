@@ -4,11 +4,11 @@
 
 I've been writing code since I was 8 years old, when my granddad showed me some BASIC on his computer upstairs. This fascinated me enough to choose it as both my career and my hobby starting from technical support and network engineer to now a full stack engineer with experience from circuit design to website design and delivery.
 
-I'm currently working with Go, NodeJS, React Native, Flutter/Dart, C++ and of course JavaScript.
+I'm currently working with Go, NodeJS, React Native, Swift, C++ and of course JavaScript.
 
-When I'm not coding I'm usually cooking or walking with my family in the woods.
+When I'm not coding I'm usually cooking, cycling or walking with my family in the woods.
 
-I am a freelancer based in the south of the UK and you can find me at the following links if you ever want to chat.
+You can find me at the following links if you ever want to chat.
 
 <p align="center">
     <a target="_blank" title="Dave Mackintosh - React Developer" href="https://dav3.co">🕸 Website</a>
