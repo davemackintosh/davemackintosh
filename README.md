@@ -14,7 +14,7 @@ You can find me at the following links if you ever want to chat.
     <a target="_blank" title="Dave Mackintosh - Full stack developer" href="https://dav3.co">🕸 Website</a>
 </p>
 <p align="center">
-    <a target="_blank" title="Dave Mackintosh Twitter" href="https://twitter.com/daveymackintosh">🐦 Twitter</a>
+    <a rel="me" href="https://fosstodon.org/@davemackintosh">🐘 Mastodon</a>
 </p>
 <p align="center">
     <a target="_blank" title="Dave Mackintosh Facebook" href="https://www.facebook.com/dave.mackintosh.986">🙃 Facebook</a>
