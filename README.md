@@ -2,7 +2,7 @@
 
 I've been writing code since I was 8 years old, when my granddad showed me some BASIC on his computer upstairs. This fascinated me enough to choose it as both my career and my hobby starting from technical support and network engineer to now a full stack engineer with experience from circuit design to website design and delivery with almost everything in between.
 
-I'm currently working with these technologies Go, GraphQL, AWS, Swift, C++, NodeJS, React/Native, and of course JavaScript delivering websites, web apps, native apps, cross platform apps and devops.
+I'm currently working with these technologies Go, GraphQL, AWS, Swift, C++, NodeJS, React, and of course vanilla JavaScript delivering websites, web apps, native apps, cross platform apps and devops.
 
 When I'm not coding I'm usually cooking, cycling or walking with my family in the woods.
 
