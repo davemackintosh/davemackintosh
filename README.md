@@ -1,10 +1,20 @@
-### 👋 I'm Dave Mackintosh, full stack and devops engineer
+### 👋 I'm Dave Mackintosh, a full stack Software Developer with a strong focus on good human interaction, security and adding value using technology.
 
-I've been writing code since I was 8 years old, when my granddad showed me some BASIC on his computer upstairs. This fascinated me enough to choose it as both my career and my hobby starting from technical support and network engineer to now a full stack engineer with experience from circuit design to website design and delivery with almost everything in between.
+It all started when I was 8 years old in '96, when my granddad showed me some BASIC on his computer upstairs to control his telescope. 
 
-I'm currently working with these technologies Go, GraphQL, AWS, Swift, C++, NodeJS, React, and of course vanilla JavaScript delivering websites, web apps, native apps, cross platform apps and devops.
+This fascinated me enough to choose it as both my career and my hobby starting from hardware manufacturing to technical support and network engineer to now a full stack engineer with experience from circuit design to website design and delivery with almost everything in between.
 
 When I'm not coding I'm usually cooking, cycling or walking with my family in the woods.
+
+Technologies and concepts I'm good at and enjoy using:
+
+|                      |                                                                                |
+|----------------------|--------------------------------------------------------------------------------|
+| Golang               | PostgreSQL and DynamoDB databases                                              |
+| C/C++                | NodeJS                                                                         |
+| Svelte and Svelte UI | Systems and data design, provision, cost optimisation and regulations (devops) |
+| React                | Accessibility (pro-active and retro-active)                                    |
+| Python               | AWS and the CDK in TypeScript, Python and Golang                               |
 
 You can find me at the following links if you ever want to chat.
 
