@@ -15,6 +15,7 @@ Technologies and concepts I'm good at and enjoy using:
 | Svelte and Svelte UI | Systems and data design, provision, cost optimisation and regulations (devops) |
 | React                | Accessibility (pro-active and retro-active)                                    |
 | Python               | AWS and the CDK in TypeScript, Python and Golang                               |
+| Rust                 | Swift and SwiftUI                                                              |
 
 You can find me at the following links if you ever want to chat.
 
