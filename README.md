@@ -6,16 +6,17 @@ This fascinated me enough to choose it as both my career and my hobby starting f
 
 When I'm not coding I'm usually cooking, cycling or walking with my family in the woods.
 
-Technologies and concepts I'm good at and enjoy using:
+Technologies and concepts I'm good at and enjoy using and teaching:
 
-|                      |                                                                                |
-|----------------------|--------------------------------------------------------------------------------|
-| Golang               | PostgreSQL and DynamoDB databases                                              |
-| C/C++                | NodeJS                                                                         |
-| Svelte and Svelte UI | Systems and data design, provision, cost optimisation and regulations (devops) |
-| React                | Accessibility (pro-active and retro-active)                                    |
-| Python               | AWS and the CDK in TypeScript, Python and Golang                               |
-| Rust                 | Swift and SwiftUI                                                              |
+| Languages/Frameworks  | Technologies/Concepts                                                          |
+|-----------------------|--------------------------------------------------------------------------------|
+| Rust                  | PostgreSQL and DynamoDB databases                                              |
+| JavaScript/TypeScript | Systems and data design, provision, cost optimisation and regulations          |
+| Svelte UI             | Accessibility (pro-active and retro-active)                                    |
+| React                 | IAC with CDK and Terraform enabling automated devops, secops and opsec         |
+| Python                | Optimisation of workloads with well known methods (hex architecture, data driven design systems such as CQRS, ECS, event sourcing implementations.                                 |
+| Golang                | Serverless architecture                                                              |
+| Swift and SwiftUI     | |
 
 You can find me at the following links if you ever want to chat.
 
