@@ -1,4 +1,4 @@
-### 👋 I'm Dave Mackintosh, a full stack Software Developer with a strong focus on good human interaction, security and adding value using technology.
+### Product, people & results focussed engineering manager/lead developer and Rust/Go/React/TypeScript dev
 
 It all started when I was 8 years old in '96, when my granddad showed me some BASIC on his computer upstairs to control his telescope. 
 
@@ -16,7 +16,7 @@ Technologies and concepts I'm good at and enjoy using and teaching:
 | React                 | IAC with CDK and Terraform enabling automated devops, secops and opsec         |
 | Python                | Optimisation of workloads with well known methods (hex architecture, data driven design systems such as CQRS, ECS, event sourcing implementations.                                 |
 | Golang                | Serverless architecture                                                              |
-| Swift and SwiftUI     | |
+| Swift and SwiftUI     | Technical team building, mentoring and leading by example |
 
 You can find me at the following links if you ever want to chat.
 
