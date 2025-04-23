@@ -2,7 +2,7 @@
 
 It all started when I was 8 years old in '96, when my granddad showed me some BASIC on his computer upstairs to control his telescope. 
 
-This fascinated me enough to choose it as both my career and my hobby starting from hardware manufacturing to technical support and network engineer to now a full stack engineer with experience from circuit design to website design and delivery with almost everything in between.
+This fascinated me enough to choose it as both my career and my hobby starting from hardware manufacturing to technical support and network engineer to now a full stack engineer and engineering manager, with experience from circuit design to website design and delivery with almost everything in between.
 
 When I'm not coding I'm usually cooking, cycling or walking with my family in the woods.
 
@@ -15,8 +15,9 @@ Technologies and concepts I'm good at and enjoy using and teaching:
 | Svelte UI             | Accessibility (pro-active and retro-active)                                    |
 | React                 | IAC with CDK and Terraform enabling automated devops, secops and opsec         |
 | Python                | Optimisation of workloads with well known methods (hex architecture, data driven design systems such as CQRS, ECS, event sourcing implementations.                                 |
-| Golang                | Serverless architecture                                                              |
+| Golang                | AWS Serverless architecture                                                              |
 | Swift and SwiftUI     | Technical team building, mentoring and leading by example |
+| Kotlin & Jetpack Compose  |  |
 
 You can find me at the following links if you ever want to chat.
 
