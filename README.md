@@ -1,5 +1,9 @@
 ### Product, people & results focussed engineering manager/lead developer and Rust/Go/React/TypeScript dev
 
+> [!WARNING]
+> All my repos are now moved to Gitlab. Head over there and take a look.  
+> [Dave Mackintosh's Gitlab profile](https://gitlab.com/davemackintosh)
+
 It all started when I was 8 years old in '96, when my granddad showed me some BASIC on his computer upstairs to control his telescope. 
 
 This fascinated me enough to choose it as both my career and my hobby starting from hardware manufacturing to technical support and network engineer to now a full stack engineer and engineering manager, with experience from circuit design to website design and delivery with almost everything in between.
